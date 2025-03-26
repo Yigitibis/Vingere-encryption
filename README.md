@@ -19,5 +19,5 @@ Bu programın çalıştırılabilmesi için sisteminizde Python'un kurulu olmas�
 
 ```sh
 python --version
-
+```
 python3 --version
