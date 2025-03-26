@@ -24,3 +24,20 @@ veya
 ```sh
 python3 --version
 ```
+
+2. Programın Çalıştırılması
+
+Terminali açın ve aşağıdaki adımları takip edin:
+
+a) Proje dizinine gidin:
+```sh
+cd proje_adi
+```
+b) Programı başlatın:
+```sh
+python Vingere.py
+```
+veya
+```sh
+python3 Vingere.py
+```
