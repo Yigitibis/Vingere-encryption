@@ -25,7 +25,7 @@ veya
 python3 --version
 ```
 
-2. Programın Çalıştırılması
+### 2. Programın Çalıştırılması
 
 Terminali açın ve aşağıdaki adımları takip edin:
 
