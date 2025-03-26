@@ -1,6 +1,4 @@
-# Vingere-encryption
 
-cat > README.md << 'EOF'
 # Vigenère Şifreleme Algoritması
 
 Bu proje, Vigenère şifreleme algoritmasını kullanarak metinleri şifrelemek ve çözmek için geliştirilmiştir. Python ile yazılmış olup terminal üzerinden çalıştırılabilir.
